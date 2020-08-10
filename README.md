@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Siddesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
 **siddeshbb/siddeshbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Siddesh's Github Stats](https://github-readme-stats.vercel.app/api?username=siddeshbb&show_icons=true&count_private=true)](https://github.com/siddeshbb/github-readme-stats)
 -->
